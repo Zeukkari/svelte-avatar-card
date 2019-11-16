@@ -1,2 +1,3 @@
 # svelte-avatar-card
-Svelte + SVG + CSS demo project
+
+[https://codepen.io/Zeukkari/pen/QWWJRqZ](https://codepen.io/Zeukkari/pen/QWWJRqZ)
