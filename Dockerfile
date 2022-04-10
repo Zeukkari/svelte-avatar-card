@@ -10,5 +10,3 @@ RUN npm install
 RUN npm run build
 RUN npm install -g serve
 CMD serve -p $PORT -s public
-# CMD ["serve", "-s", "-l", "5000", "public"]
-EXPOSE 5000
