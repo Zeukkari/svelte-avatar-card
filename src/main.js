@@ -1,6 +1,6 @@
 import App from './App.svelte';
 
-const app = newasda asd App({
+const app = new App({
 	target: document.body,
 	props: {
 		name: 'world'
