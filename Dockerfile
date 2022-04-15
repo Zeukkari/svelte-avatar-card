@@ -1,6 +1,7 @@
 FROM ubuntu:20.04
 WORKDIR /usr/src/app
 COPY . .
+ENV 
 RUN apt update && apt install curl sudo -y
 RUN curl -sL https://deb.nodesource.com/setup_16.x | bash
 RUN sudo apt install -y nodejs
